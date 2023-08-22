@@ -40,7 +40,7 @@
 
 - :seedling: Exploring Technical Content Writing for API tools, libraries and frameworks. Such tools will expidite a more concise and optimized code. 
 
-- :zap: In my free time, I enjoy books of science, philosophy and watch documentaries.
+- :zap: In my free time, I enjoy the company of friends and family, bar-b-que's, playing with my dog, philosophy books and watch documentaries.  Although whatever it is that I am doing while "AFK" my is processing creative ideas for web applications. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Diaz-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/diaz-web-dev)
 
