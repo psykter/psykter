@@ -39,7 +39,7 @@
 </div>
 
 
-- :telescope: I’m currently a Student at Codeup Academy honing and mastering full-stack web development and I will be a student for life.
+- :telescope: Today I am Student at Codeup Academy honing and mastering full-stack web development and once I have completed this awesome course I will be emersed in the realm of cybernetics toying with the next captivating utility... And there are many undiscovered. So says I student of == for life./?
 
 - :seedling: Exploring Technical Content Writing for API tools, libraries and frameworks. Such tools will expidite a more concise and optimized code. 
 
