@@ -39,7 +39,7 @@
 </div>
 
 
-- :telescope: Today I am Student at Codeup Academy honing and mastering full-stack web development and once I have completed this awesome course I will be emersed in the realm of cybernetics toying with the next captivating utility... And there are many undiscovered. Thus proclaims I, a student of == for life, where the distinction between 'of' and 'for' is but a whimsical nuance in my perpetual quest for wisdom./?
+- :telescope: Today, I am a student at Codeup Academy, dedicated to honing and mastering full-stack web development. Upon completion of this exciting course, I look forward to immersing myself in the realm of cybernetics, exploring the next captivating utility. The possibilities are abundant and yet undiscovered. Thus proclaims I, a student of == for life, where the distinction between 'of' and 'for' is but a whimsical nuance in my perpetual quest for wisdom./?
 
 - :seedling: Exploring Technical Content Writing for API tools, libraries and frameworks. Such tools will expidite a more concise and optimized code. 
 
