@@ -43,7 +43,7 @@
 
 - :seedling: Diving into the realm of technical content writing focused on API tools, libraries, and frameworks—innovative resources poised to streamline code for enhanced conciseness and optimization. 
 
-- :zap: During my off-duty moments, I revel in the vibrant tapestry of friendships, the sizzling allure of barbecues, playful bouts with my four-legged companion, and the profound exploration found within the pages of philosophy books or the captivating narratives of documentaries. Yet, even in those instances when I'm officially "away from keyboard" (AFK), my cognitive gears are currently whirring away, drafting the syntax for the birth of a brand new  ('*.*')—because who said coding can't have a dash of wildcard humor?
+- :zap: During my off-duty moments, I revel in the vibrant tapestry of friendships, the sizzling allure of barbecues, playful bouts with my four-legged companion, and the profound exploration found within the pages of philosophy books or the captivating narratives of documentaries. Yet, even in those instances when I'm officially "away from keyboard" (AFK), my cognitive gears are currently whirring away, drafting the syntax for the birth of a brand new  (star char.star char) ('*.*')—because who said coding can't have a dash of wildcard humor?
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Diaz-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/diaz-web-dev)
 
