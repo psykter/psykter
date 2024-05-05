@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx](https://www.bing.com/42d36d10-3c8f-4662-b3ec-6acaa96f08e6)/giphy.gif" width="100"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/diaz-web-dev/" target="_blank">
