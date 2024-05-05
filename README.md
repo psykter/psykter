@@ -49,6 +49,11 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://denim-chipmunk-x4a5.squarespace.com/config/asset-library/comptia-security-ce-certification.png)![image](https://github.com/psykter/psykter/assets/78979711/7f0a2c14-d646-4e40-a7e5-67be5b206243)
+" width="600" height="600"/>
+</div>
+
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
