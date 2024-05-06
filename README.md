@@ -5,6 +5,8 @@
 
   ![Designer (4)](https://github.com/psykter/psykter/assets/78979711/ddb26d86-dd31-48ac-9a4a-49a79a5ef81f)
 
+  <img width="900" alt="plasma1" src="https://github.com/psykter/psykter/assets/78979711/c3b10e18-677d-4619-a893-0d5bd29a4bbe">
+
 
 <img width="700" alt="plasma_ray" src="https://github.com/psykter/psykter/assets/78979711/e17ccb9d-49ad-4947-b37b-74ce75a09d0c">
 
