@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ![Designer (4)](https://github.com/psykter/psykter/assets/78979711/ddb26d86-dd31-48ac-9a4a-49a79a5ef81f)
 
 <div id="badges" align="center">
@@ -25,10 +21,6 @@
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 <div align="center">
   ### VETERAN U.S. ARMY :technologist:
