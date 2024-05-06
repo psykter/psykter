@@ -5,7 +5,7 @@
 
   ![Designer (4)](https://github.com/psykter/psykter/assets/78979711/ddb26d86-dd31-48ac-9a4a-49a79a5ef81f)
 
-  <img width="1000" alt="plasma1" src="https://github.com/psykter/psykter/assets/78979711/c3b10e18-677d-4619-a893-0d5bd29a4bbe">
+  <img width="1024" alt="plasma1" src="https://github.com/psykter/psykter/assets/78979711/c3b10e18-677d-4619-a893-0d5bd29a4bbe">
 
 <div align="center">
 <img width="700" alt="army_banner" src="https://github.com/psykter/psykter/assets/78979711/cc2f8c63-0b63-4a4d-b44b-2651a03e7792">
