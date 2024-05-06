@@ -3,9 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-![Designer (4)](https://github.com/psykter/psykter/assets/78979711/ddb26d86-dd31-48ac-9a4a-49a79a5ef81f)
-
 <div align="center">
+  ![Designer (4)](https://github.com/psykter/psykter/assets/78979711/ddb26d86-dd31-48ac-9a4a-49a79a5ef81f)
 <img width="700" alt="plasma_ray" src="https://github.com/psykter/psykter/assets/78979711/e17ccb9d-49ad-4947-b37b-74ce75a09d0c">
 </div>
 
