@@ -24,7 +24,9 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
 <img width="700" alt="army_banner" src="https://github.com/psykter/psykter/assets/78979711/cc2f8c63-0b63-4a4d-b44b-2651a03e7792">
+</div>
 
 <div align="center">
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from San Anotnio, Texas.
